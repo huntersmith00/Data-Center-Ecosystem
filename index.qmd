@@ -117,6 +117,8 @@ From AI to IoT, every emerging technology runs on data centers. Understanding th
 - Build infrastructure-aware software.
 - Invest in the future of cloud and edge computing.
 
+➡️ [Learn why the data center ecosystem is so important →](Why.html)
+
 ---
 
 📝 *This site is a growing knowledge base. Click on any section above to dive deeper.*  
