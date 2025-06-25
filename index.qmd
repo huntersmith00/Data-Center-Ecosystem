@@ -45,7 +45,7 @@ Data centers aren't just buildings filled with servers. They involve **a wide ar
 - Deliver high-speed fiber optics, cross-connects, and peering services.
 - Critical to low-latency and high-availability applications.
 
-➡️ [See how data centers connect to the internet backbone](networking.html)
+➡️ [See how data centers connect to the internet backbone](Networking.html)
 
 ---
 

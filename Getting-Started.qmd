@@ -195,4 +195,4 @@ There are dozens of **adjacent industries** that plug in:
 
 ---
 
-✍️ *Part of the Data Center Ecosystem Series. Return to the [main index](index.qmd) or explore [Facility Providers & Operators](facility.qmd).*
+✍️ *Part of the Data Center Ecosystem Series. Return to the [main index](index.html) or explore [Facility Providers & Operators](Facilities.html).*

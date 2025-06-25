@@ -101,4 +101,4 @@ This guide breaks down key phases, engineering specialties, and design considera
 
 ---
 
-✍️ *Part of the Data Center Ecosystem Series. Return to the [main index](index.qmd) or explore [Monitoring & Automation Tools](monitoring.qmd).*
+✍️ *Part of the Data Center Ecosystem Series. Return to the [main index](index.html) or explore [Monitoring & Automation Tools](Monitoring.html).*
