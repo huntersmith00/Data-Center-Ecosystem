@@ -92,11 +92,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./why.qmd"> 
+    <a class="nav-link" href="./Why.html"> 
 <span class="menu-text">Why It Matters</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./getting-started.qmd"> 
+    <a class="nav-link" href="./Getting-Started.html"> 
 <span class="menu-text">Getting Started</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -104,15 +104,42 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Pages</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-pages">    
-        <li class="dropdown-header">Facilities.html</li>
-        <li class="dropdown-header">powerHVAC.html</li>
-        <li class="dropdown-header">Networking.html</li>
-        <li class="dropdown-header">Hardware.html</li>
-        <li class="dropdown-header">Cloud.html</li>
-        <li class="dropdown-header">Security.html</li>
-        <li class="dropdown-header">Monitoring.html</li>
-        <li class="dropdown-header">Engineering.html</li>
-        <li class="dropdown-header">Recycling.html</li>
+        <li>
+    <a class="dropdown-item" href="./Facilities.html">
+ <span class="dropdown-text">Facility Providers</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./powerHVAC.html">
+ <span class="dropdown-text">Power &amp; Cooling</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./Networking.html">
+ <span class="dropdown-text">Networking</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./Hardware.html">
+ <span class="dropdown-text">Hardware</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./Cloud.html">
+ <span class="dropdown-text">Cloud Services</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./Security.html">
+ <span class="dropdown-text">Security</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./Monitoring.html">
+ <span class="dropdown-text">Monitoring &amp; Automation</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./Engineering.html">
+ <span class="dropdown-text">Engineering &amp; Construction</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./Recycling.html">
+ <span class="dropdown-text">Recycling &amp; Lifecycle</span></a>
+  </li>  
     </ul>
   </li>
 </ul>
@@ -451,7 +478,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/huntersmith00\.github\.io\/Data-Center-Ecosystem\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
