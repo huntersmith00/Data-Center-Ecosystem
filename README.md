@@ -1,19 +1,3 @@
----
-author:
-    - name: Hunter Smith
-      email: huntersmith1017@gmail.com
-date: last-modified
-format:
-    html:
-        theme: cosmo
-        toc: false
-        embed-resources: true
-        code-copy: true
-execute:
-  echo: true
-  eval: true
-  cache: false
----
 # Welcome to the Data Center Ecosystem Hub
 
 Data centers form the backbone of our digital world—from streaming services and banking to enterprise IT and AI workloads. This guide introduces the **core businesses, technologies, and operational components** behind modern data centers. Use the sections below as gateways to explore each area in depth.
