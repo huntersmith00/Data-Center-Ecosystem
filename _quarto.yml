@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "The Data Center Ecosystem"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: why.qmd
+        text: Why It Matters
+      - href: getting-started.qmd
+        text: Getting Started
+      - text: Pages
+        menu:
+          - Facilities.html
+          - powerHVAC.html
+          - Networking.html
+          - Hardware.html
+          - Cloud.html
+          - Security.html
+          - Monitoring.html
+          - Engineering.html
+          - Recycling.html
+  page-footer:
+    center: "© 2025 Data Center Ecosystem Guide"
+  repo-url: https://github.com/yourusername/yourrepo
+  repo-actions: [edit, issue]
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
